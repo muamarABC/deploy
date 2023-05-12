@@ -1,0 +1,38 @@
+.Donasi_item {
+    cursor: pointer;
+}
+
+.Donasi_info a:hover {
+    color: inherit;
+}
+
+.Donasi_info h3 a {
+    font-size: 1.1rem;
+    color: var(--primary-color);
+    font-weight: 600;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+Link {
+    text-decoration: none;
+}
+
+.donasi_card-bottom .price {
+    color: var(--primary-color);
+    font-size: 1.3rem;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.product_card-bottom span i {
+    font-size: 1.2rem;
+    padding: 5px;
+    background: var(--primary-color);
+    color: white;
+    border-radius: 50px;
+}
+
+ProgressBar {
+    color: black;
+}
